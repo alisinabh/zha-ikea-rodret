@@ -22,7 +22,7 @@ blueprint:
           filter:
             - integration: zha
               manufacturer: IKEA of Sweden
-              model: RIDRET Dimmer
+              model: RODRET Dimmer
     on_short:
       name: Short Press - On Button
       description: The action to perform on Short Press of the On Button
